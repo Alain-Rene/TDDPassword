@@ -1,0 +1,11 @@
+/Users/alainrene/Desktop/AugustWeek4/TDDPassword/MyProject/obj/Debug/net8.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alainrene/Desktop/AugustWeek4/TDDPassword/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfoInputs.cache
+/Users/alainrene/Desktop/AugustWeek4/TDDPassword/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfo.cs
+/Users/alainrene/Desktop/AugustWeek4/TDDPassword/MyProject/obj/Debug/net8.0/MyProject.csproj.CoreCompileInputs.cache
+/Users/alainrene/Desktop/AugustWeek4/TDDPassword/MyProject/bin/Debug/net8.0/MyProject.deps.json
+/Users/alainrene/Desktop/AugustWeek4/TDDPassword/MyProject/bin/Debug/net8.0/MyProject.dll
+/Users/alainrene/Desktop/AugustWeek4/TDDPassword/MyProject/bin/Debug/net8.0/MyProject.pdb
+/Users/alainrene/Desktop/AugustWeek4/TDDPassword/MyProject/obj/Debug/net8.0/MyProject.dll
+/Users/alainrene/Desktop/AugustWeek4/TDDPassword/MyProject/obj/Debug/net8.0/refint/MyProject.dll
+/Users/alainrene/Desktop/AugustWeek4/TDDPassword/MyProject/obj/Debug/net8.0/MyProject.pdb
+/Users/alainrene/Desktop/AugustWeek4/TDDPassword/MyProject/obj/Debug/net8.0/ref/MyProject.dll
